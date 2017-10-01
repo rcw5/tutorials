@@ -53,7 +53,7 @@ Being a full desktop OS there is no restriction on the software that can be used
 
 Download the [GPS version of the OFM maps](http://www.openfietsmap.nl/downloads/europe), save them to the microSD card in the `GPX` folder with a unique name (the default is often `gmapsupp.img`).
 
-![](images/ofm.png "Openfietsmap in BaseCamp")
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/ofm.png "Openfietsmap in BaseCamp")
 _Basel, Switzerland in BaseCamp with OpenFietsMap maps_
 
 #### Transferring Files
@@ -71,7 +71,11 @@ There are plenty of online route planning apps - [ridewithGPS](http://ridewithgp
 
 With a full trackpad and keyboard, planning routes is easy. Click on the map to add points and cycle.travel will generate a route from A-to-B. Routes can be saved for later editing and exported as GPS routes, tracks and more.
 
-![](images/ctrav.png "Cycle.travel route example")
+![](
+
+
+
+/ctrav.png "Cycle.travel route example")
 _Cycle.travel planned route for a recent trip to Brittany - green lines are off-road sections; blue are on-road_
 
 #### Transferring files
@@ -103,7 +107,7 @@ There is no offline routing engine available for iOS, however there are plenty o
 
 The app is really intuitive and it's super easy to download maps for offline viewing, either at a city, state or country level.
 
-![](images/pocketearth-offline-map.gif "Saving Pocket Earth maps for offline viewing")
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/pocketearth-offline-map.gif "Saving Pocket Earth maps for offline viewing")
 
 There are several map styles, including a useful cycling view which highlights all bike routes. It's also easy to find points of interest such as hotels, restaurants, banks, supermarkets etc. The database is _reasonably_ accurate - on a couple of occasions we have been let down but generally it works well.
 
@@ -115,7 +119,7 @@ Although there is no offline routing engine, Pocket Earth does provide online ro
 
 As there's no iPad equivalent of the click-and-drag action, to replan a route click anywhere on the blue line and select "add via point" and a blue marker will appear. Drag the blue marker where you want it and the route will update. It can take a few attempts to get the marker exactly in the right place but you get will there eventually.
 
-![](images/ct-modify-route.gif)
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/ct-modify-route.gif)
 
 ### Saving files
 
@@ -139,7 +143,7 @@ First you need to set up the Trip Mate with GoodReader:
   * Choose `admin` as the user. No password is required
 * The SD card can then be read by browsing through `UsbDisk1>Volume1>Garmin`
 
-![](images/add-tripmate-webdav.gif)
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/add-tripmate-webdav.gif)
 
 To save a route to the Garmin:
 * Create the route in Pocket Earth. Then click Share, choose GPX, and Copy To GoodReader
@@ -149,7 +153,7 @@ To save a route to the Garmin:
 * Browse through the microSD card to the relevant folder for your device (`UsbDisk1>Volum1>Garmin>NewFiles`) on my Edge 1000
 * Click upload
 
-![](images/export-to-garmin-via-tripmate.gif)
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/export-to-garmin-via-tripmate.gif)
 
 That's it - go hit the trail!
 
