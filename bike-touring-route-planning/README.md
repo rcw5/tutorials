@@ -2,7 +2,7 @@
 
 ## A brief history...
 
-5 years ago I was bitten by the cycle touring bug. Since then I've been on unsupported rides, both short and long, through England, France, Portugal, Germany, Austria, Czech Republic, Holland and Belgium.
+5 years ago I was bitten by the cycle touring bug. Since then I've been on unsupported rides, both short and long, through England, France, Portugal, Germany, Austria, Slovenia, Czech Republic, Holland and Belgium.
 
 Over time I've learned that the roads you ride on can make or break a trip. Find yourself on a trunk road and you could be dealing with trucks for hours on end; take what looks like a quiet country lane and you might find yourself at the end of the road having to push your bike up a steep singletrack mountain path!
 
@@ -16,21 +16,27 @@ This guide goes through my experiences over several trips to try to solve this p
 
 **Must:**
 
-- Automatically generate routes from 2 or more points - I don't want to spend ages drawing lines myself
+- Have an interface that makes it easy to draw routes (i.e. A-to-B planning or sticks to roads as you draw)
 - Use cycle friendly routes, not motorways and trunk roads
-- Be able to produce routes that can be followed on a Garmin Edge 1000 and eTrex 20 (GPX files essentially)
+- Be able to produce routes that can be followed on a Garmin Edge 1000, 800 and eTrex 20 (GPX files essentially)
 - Be so simple that it works even in a tent in the pouring rain
-- Take place on a device which has a long battery life
+- Take place on a device which has a long battery life, and preferably one I already take on the trip for other reasons
 - Be on a device that I either have already or is cheap to buy/replace if it gets trashed or stolen on tour
 
 **Should**
 
-- Use offline mapping and routing as you can never rely on an internet connection
+- Work offline as much as possible (this is less of a concern than it used to be due to wifi connections everywhere and the ease of getting cellular data on my phone)
 - Device should weigh as little as possible
 - Device should take up as little space in a pannier as possible
 - Be on a device that can be charged by USB
 
-All the devices and applications I mention below meet some of these requirements but as with everything in life, it's a trade off...
+All the devices and applications I mention below meet some of these requirements but as with everything in life, it's a trade off.
+
+# Cut to the chase: what I use today
+
+On [my last trip](https://www.crazyguyonabike.com/doc/?o=tS&doc_id=21036) I took my iPad and used the MapOut app to plan routes from the comfort of my tent. MapOut exports to GPX files which I copied to my Garmin Edge 1000 via a wifi SD card reader.
+
+To upload my days ride to Strava I transferred files from my Garmin Edge to my iPad via the SD card reader, then upload them using Safari.
 
 # Microsoft Windows
 ## Devices
@@ -46,12 +52,11 @@ Both have a full-size keyboard and a basic display. The ta100a features a touch 
 The good thing is the price - second hand/refurbished versions of both models sell on eBay for a little over £100. If I can get 2 or 3 tours out of a machine at this price I'd be happy..
 
 ## Software
-
 ### Offline - Garmin Basecamp
 
 Being a full desktop OS there is no restriction on the software that can be used. For offline mapping I recommend [Garmin Basecamp](http://www.garmin.com/en-GB/shop/downloads/basecamp) (with cycle maps from [openfietsmap](http://www.openfietsmap.nl/)).
 
-Download the [GPS version of the OFM maps](http://www.openfietsmap.nl/downloads/europe), save them to the microSD card in the `GPX` folder with a unique name (the default is often `gmapsupp.img`).
+Download the [GPS version of the OFM maps](http://www.openfietsmap.nl/downloads/europe), save them to the microSD card in the `GPX` folder with a unique name (the default is often `gmapsupp.img`). Be sure that the microSD card is inserted when opening BaseCamp and it'll display your maps for you.
 
 ![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/ofm.png "Openfietsmap in BaseCamp")
 _Basel, Switzerland in BaseCamp with OpenFietsMap maps_
@@ -63,7 +68,7 @@ Piece of cake.
 Either:
 
 - Connect device to the laptop via USB and use BaseCamp to transfer the files
-- Export the tracks as a GPX, plug in the Garmin GPS SD card and copy to the `Garmin/NewFiles` directory (at least on the Edge 1000).
+- Export the tracks as a GPX, plug in the Garmin device's SD card and copy to the `Garmin/NewFiles` directory (at least on the Edge 1000, it'll just be in the `Garmin/GPX` folder for an eTrex)
 
 ### Online - cycle.travel
 
@@ -71,11 +76,7 @@ There are plenty of online route planning apps - [ridewithGPS](http://ridewithgp
 
 With a full trackpad and keyboard, planning routes is easy. Click on the map to add points and cycle.travel will generate a route from A-to-B. Routes can be saved for later editing and exported as GPS routes, tracks and more.
 
-![](
-
-
-
-/ctrav.png "Cycle.travel route example")
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/ctrav.png "Cycle.travel route example")
 _Cycle.travel planned route for a recent trip to Brittany - green lines are off-road sections; blue are on-road_
 
 #### Transferring files
@@ -92,7 +93,7 @@ Go for either iPhone or an iPad - take your pick. I prefer an iPad Mini, the sma
 
 Device Name  | Screen Size | Dimensions (HxWxD) | Weight (wifi only)
 -|-|-|-
-iPad Mini 4 | 7.9 inch | 203x135x6  | 300g  
+iPad Mini 4 | 7.9 inch | 203x135x6  | 300g
 iPad | 9.7 inch | 240x170x8 | 469g
 iPad Pro (10.5") | 10.5 inch | 250x175x6 | 469g
 iPad Pro (12.9") | 12.9 inch | 305x220x7 | 677g
@@ -101,7 +102,17 @@ Battery life is great, around 10 hours, and all devices charge quickly over USB.
 
 ## Software
 
-### Offline (ish) - Pocket Earth
+### Fully Offline: MapOut (£4.99)
+
+[MapOut](https://mapout.app/) is a worldwide offline map for hiking and biking. In addition to showing biking/hiking routes on the map you can also create your own tours by drawing on the map. The interface is extremely intuitive and plotting a day's ride takes a minute at most.
+
+As you draw it locks on to roads or trails and does a good job of figuring out where you want to go even if your finger's not always in the right place. To correct any mistakes just zoom in on the section and draw a new loop, connecting two existing points on the route.
+
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/mapout-route-planning.gif "Planning a route using MapOut")
+
+I particularly like being able to view a route's elevation, and the way the app displays the distance of part of a route when zoomed in. This second feature is useful to find out how far you are away from the next town, to plan the next day of riding or to view an elevation profile of the next 30kms.
+
+### Offline (ish) - Pocket Earth (£Free)
 
 There is no offline routing engine available for iOS, however there are plenty of apps which provide offline mapping functionality and can generate routes with an internet connection. [Pocket Earth](https://pocketearth.com/) is my favourite: the pro version is well worth the 99p.
 
@@ -117,13 +128,31 @@ Although there is no offline routing engine, Pocket Earth does provide online ro
 
 [cycle.travel](http://cycle.travel) works well on an iPad too, although with no mouse is a bit harder to use compared with a laptop. Annoyingly there's no way to hide the sidebar which takes up around 1/3 of the display.
 
-As there's no iPad equivalent of the click-and-drag action, to replan a route click anywhere on the blue line and select "add via point" and a blue marker will appear. Drag the blue marker where you want it and the route will update. It can take a few attempts to get the marker exactly in the right place but you get will there eventually.
+As there's no iPad equivalent of the click-and-drag action, to re-plan a route click anywhere on the blue line and select "add via point" and a blue marker will appear. Drag the blue marker where you want it and the route will update. It can take a few attempts to get the marker exactly in the right place but you get will there eventually.
 
 ![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/ct-modify-route.gif)
 
 ### Saving files
 
-The closed nature of iOS makes this process a bit involved, but it's not impossible. For my suggested approach you will need:
+#### Online method
+
+Assuming your Garmin supports courses then PocketEarth, MapOut or cycle.travel created routes can be transferred to the device using Bluetooth and Garmin connect.
+
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/export-part-1.jpg)
+
+In MapOut, select the tour you want to export then tap the top right menu item followed by Share. Under the 'Open In...' menu, choose Garmin Connect.
+
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/export-part-2.jpg)
+
+Garmin Connect will import the route, asking you to choose the activity type. From there you'll be shown an overview of the route on a map. Press 'Done', then in the next window choose the export option from the top right of the screen. This will transfer the course to your Garmin device via Bluetooth and you're ready to ride.
+
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin.png)
+
+I don't see why you need an internet connection for this process, but unfortunately it doesn't work unless you can access the web. I guess it has to upload the files to Garmin's servers as well as your device.
+
+#### Offline method
+
+The closed nature of iOS makes this process a bit involved, but it's not impossible. For my recommended approach you'll need:
 
 1. An iPad
 2. A microSD card to transfer your route to
@@ -131,7 +160,7 @@ The closed nature of iOS makes this process a bit involved, but it's not impossi
 4. A HooToo Trip Mate Nano ([less than £20 on Amazon](https://www.amazon.com/HooToo-Wireless-Performance-TripMate-Hotspot/dp/B00HZWOQZ6))
 5. GoodReader iOS app (£4.99)
 
-The Trip Mate is a cheap portable WiFi hotspot which is generally used to bridge wired/wireless networks, but it also provides a WebDAV server over any storage plugged in to the USB port which provides a solution for not being (easily) able to connect USB devices direct to an iPad.
+The Trip Mate is a cheap portable WiFi hotspot which is generally used to bridge wired/wireless networks, but it also provides a WebDAV server over any storage plugged in to the USB port. This is a good solution for not being (easily) able to connect USB devices direct to an iPad.
 
 First you need to set up the Trip Mate with GoodReader:
 
