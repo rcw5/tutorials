@@ -47,7 +47,7 @@ Overall these machines perform _okay_... The hardware is the bare minimum necess
 
 Battery life is good - around 10 hours. The t100ta charges over USB but I found it to be extremely picky about cables and chargers. If you get the wrong combination it can take days to charge; even with the right cables it can take around 10 hours from empty. The x205ta connects to the mains instead of USB, but charges much faster.
 
-Both have a full-size keyboard and a basic display. The ta100a features a touch screen which is potentially handy but I have had one digitiser break before - they are almost impossible to replace and although you can disable it, it's a challenge to do so as the broken screen keeps sending taps.
+Both have a full-size keyboard and a basic display. The t100ta features a touch screen which is potentially handy but I have had one digitiser break before - they are almost impossible to replace and although you can disable it, it's a challenge to do so as the broken screen keeps sending taps.
 
 The good thing is the price - second hand/refurbished versions of both models sell on eBay for a little over £100. If I can get 2 or 3 tours out of a machine at this price I'd be happy..
 
