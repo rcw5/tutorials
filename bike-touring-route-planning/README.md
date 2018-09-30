@@ -185,6 +185,7 @@ To save a route to the Garmin:
 ![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/export-to-garmin-via-tripmate.gif)
 
 ![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin-tripmate-ipad.jpg)
+
 _Uploading a file to a Garmin Edge 1000 using GoodReader and the TripMate Nano_
 
 That's it - go hit the trail!
