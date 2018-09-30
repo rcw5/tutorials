@@ -156,7 +156,7 @@ The closed nature of iOS makes this process a bit involved, but it's not impossi
 
 1. An iPad
 2. A microSD card to transfer your route to
-3. A USB microSD card reader
+3. If your Garmin doesn't have a direct USB connection (such as the eTrex), a USB microSD card reader
 4. A HooToo Trip Mate Nano ([less than £20 on Amazon](https://www.amazon.com/HooToo-Wireless-Performance-TripMate-Hotspot/dp/B00HZWOQZ6))
 5. GoodReader iOS app (£4.99)
 
@@ -165,7 +165,7 @@ The Trip Mate is a cheap portable WiFi hotspot which is generally used to bridge
 First you need to set up the Trip Mate with GoodReader:
 
 * Connect the iOS device to Trip Mate wifi network
-* Put the microSD card from the Garmin into the USB reader and plug it into the Trip Mate
+* Connect your Garmin directly to the Trip Mate's USB port, or put the microSD card from the Garmin into the USB reader and plug it into the Trip Mate
 * Open GoodReader and add the TripMate:
   * Under the 'Connect' screen add a new WebDAV server
   * Enter `http://10.10.10.254/data` as the URL-Address
@@ -175,7 +175,7 @@ First you need to set up the Trip Mate with GoodReader:
 ![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/add-tripmate-webdav.gif)
 
 To save a route to the Garmin:
-* Create the route in Pocket Earth. Then click Share, choose GPX, and Copy To GoodReader
+* Create the route in Pocket Earth, MapOut or your favourite app. Then click Share, choose GPX, and Copy To GoodReader
   * Alternatively:  Draw a route in cycle.travel and download it to GoodReader
 * Locate the file in GoodReader and rename it with a suitable name (the default Pocket Earth names are a bit weird)
 * Click 'Upload' and select TripMate
@@ -184,9 +184,12 @@ To save a route to the Garmin:
 
 ![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/export-to-garmin-via-tripmate.gif)
 
+![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin-tripmate-ipad.jpg)
+_Uploading a file to a Garmin Edge 1000 using GoodReader and the TripMate Nano_
+
 That's it - go hit the trail!
 
-_Additional info_: You can also use the free TripMate iOS app but the interface is awful so I'd definitely recommend paying the money on GoodReader.
+_Additional info_: You can also use the free TripMate iOS app but the interface is awful so I'd definitely recommend paying the money for GoodReader.
 
 # Android
 
@@ -194,4 +197,4 @@ I don't have a lot of experience with Android yet. [OsmAnd](http://osmand.net/) 
 
 The benefit of Android is that you get the flexibility of Windows for the size of an iPad. No need for any convoluted transfer process, almost all tablets have a microSD card reader built in.
 
-However I find the Android interface clunky. OsmAnd is especially difficult to use, although I admit that this could be because I am a Windows/Mac user and rarely use Android devices. If this doesn't apply to you then there's a chance you might find this a whole lot easier than I did...
+However I find the Android interface clunky. OsmAnd is especially difficult to use, although I admit that this could be because I'm a Windows/Mac user and rarely use Android devices. If this doesn't apply to you then there's a chance you might find this a whole lot easier than I did...
