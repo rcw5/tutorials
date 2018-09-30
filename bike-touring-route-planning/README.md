@@ -156,8 +156,8 @@ The closed nature of iOS makes this process a bit involved, but it's not impossi
 
 1. An iPad
 2. A microSD card to transfer your route to
-3. If your Garmin doesn't have a direct USB connection (such as the eTrex), a USB microSD card reader
-4. A HooToo Trip Mate Nano ([less than £20 on Amazon](https://www.amazon.com/HooToo-Wireless-Performance-TripMate-Hotspot/dp/B00HZWOQZ6))
+3. (Optional, or if your GPS device doesn't have a USB connector), a USB microSD card reader
+4. A HooToo Trip Mate Nano ([less than £20 on Amazon](https://www.amazon.co.uk/HooToo-Wireless-Performance-TripMate-Hotspot/dp/B00I00J8DW))
 5. GoodReader iOS app (£4.99)
 
 The Trip Mate is a cheap portable WiFi hotspot which is generally used to bridge wired/wireless networks, but it also provides a WebDAV server over any storage plugged in to the USB port. This is a good solution for not being (easily) able to connect USB devices direct to an iPad.
