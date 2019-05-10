@@ -2,13 +2,13 @@
 
 ## A brief history...
 
-5 years ago I was bitten by the cycle touring bug. Since then I've been on unsupported rides, both short and long, through England, France, Portugal, Germany, Austria, Slovenia, Czech Republic, Holland and Belgium.
+6 years ago I was bitten by the cycle touring bug. Since then I've been on unsupported rides, both short and long, through England, France, Portugal, Germany, Austria, Slovenia, Czech Republic, Holland and Belgium.
 
-Over time I've learned that the roads you ride on can make or break a trip. Find yourself on a trunk road and you could be dealing with trucks for hours on end; take what looks like a quiet country lane and you might find yourself at the end of the road having to push your bike up a steep singletrack mountain path!
+Over time I've learned that the roads you ride on can make or break a trip. Find yourself on a trunk road and you could be dealing with trucks for hours on end; take what looks like a quiet country lane and you might get to the end of the road then push your bike up a steep singletrack mountain path!
 
-I've also found that the best trips are the ones with flexibility in the plan. On a difficult day you might want to stop early, not push on another 30kms just to hit the daily target for the trip. Conversely, on a good day you might want to carry on further. Or you could find an interesting road through the mountains and decide to explore a different country instead.
+I've also learned that the best trips are the ones with flexibility in the plan. On a difficult day you might want to stop early, not push on another 30kms just to hit the daily target for the trip. Conversely, with the wind behind your back all day you might want to ride on further. Or you could find an interesting road through the mountains and decide to explore a different country instead.
 
-What does this mean? Firstly, route planning is key; secondly, there has to be a way to plan routes whilst on tour. But equally important is pack weight and not carrying around kilos of technology in panniers.
+What does this mean? Firstly, route planning is key; secondly, there needs to be a way to plan routes whilst on tour. Equally important is pack weight and not carrying around kilos of technology in panniers.
 
 This guide goes through my experiences over several trips to try to solve this problem. I've still not cracked it, but think I've got enough experience to share with others.
 
