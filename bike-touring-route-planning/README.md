@@ -25,7 +25,7 @@ This guide goes through my experiences over several trips to try to solve this p
 
 **Should**
 
-- Work offline as much as possible (this is less of a concern than it used to be due to wifi connections everywhere and the ease of getting cellular data on my phone)
+- Not use huge amounts of mobile data, as it can be slow/expensive in many countries
 - Device should weigh as little as possible
 - Device should take up as little space in a pannier as possible
 - Be on a device that can be charged by USB
@@ -134,7 +134,7 @@ As there's no iPad equivalent of the click-and-drag action, to re-plan a route c
 
 ### Saving files
 
-#### Online method
+#### Online method A (Garmin Connect)
 
 Assuming your Garmin supports courses then PocketEarth, MapOut or cycle.travel created routes can be transferred to the device using Bluetooth and Garmin connect.
 
@@ -149,6 +149,28 @@ Garmin Connect will import the route, asking you to choose the activity type. Fr
 ![](https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin.png)
 
 I don't see why you need an internet connection for this process, but unfortunately it doesn't work unless you can access the web. I guess it has to upload the files to Garmin's servers as well as your device.
+
+This process works but I find the Garmin app temperamental and it regularly takes 5 or 6 attempts to get Garmin Connect to understand I want to give it a file, then wait ages for it to show up on my deviec.
+
+#### Online method B (routeCourse)
+
+[Dynamic Watch](https://dynamic.watch/) have produced a great Garmin Connect IQ app called [routeCourse](https://apps.garmin.com/en-CA/apps/b7efc9ca-5446-4e1c-bc53-474e97f376ac). The app installs direct onto your Garmin and provides an alternative way to transfer routes onto the device. I find it simpler and more convenient than using the Garmin Connect App directly.
+
+Plan the route on your iDevice as usual then export the GPX file into the iOS files app.
+
+<a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save.jpg"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save.jpg" width="15%" height="15%" /> </a> <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save2.jpg"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save2.jpg" width="15%" height="15%" /></a>
+
+Browse to the [](https://dynamic.watch) website and upload the GPX file via Safari. You'll need to find the GPX file you saved to the Files app.
+
+<a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save3.png"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save3.png" width="15%" height="15%" /> </a> <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save4.jpg"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save4.jpg" width="15%" height="15%" /></a> <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save5.jpg"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/routecourse_export_save5.jpg" width="15%" height="15%" /></a>
+
+
+On your Garmin, open routeCourse and within a few seconds you should see the route show up. Select the route to save it to your device, then you're ready to navigate.
+
+<a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_1.png"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_1.png"  width="10%" height="10%" /> </a> <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_2.png"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_2.png"  width="10%" height="10%" /> </a> <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_3.png"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_3.png"  width="10%" height="10%" /> </a> <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_4.png"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_4.png"  width="10%" height="10%" /> </a> <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_5.png"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_5.png"  width="10%" height="10%" /> </a>  <a href="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_6.png"><img src="https://raw.githubusercontent.com/rcw5/tutorials/master/bike-touring-route-planning/images/garmin_routecourse_6.png"  width="10%" height="10%" /> </a>
+
+
+
 
 #### Offline method
 
