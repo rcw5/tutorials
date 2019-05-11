@@ -34,20 +34,22 @@ All the devices and applications I mention below meet some of these requirements
 
 # Cut to the chase: what I use today
 
-On [my last trip](https://www.crazyguyonabike.com/doc/?o=tS&doc_id=21036) I took my iPad and used the MapOut app to plan routes from the comfort of my tent. MapOut exports to GPX files which I copied to my Garmin Edge 1000 via a wifi SD card reader.
+On [my last trip](https://www.crazyguyonabike.com/doc/?o=tS&doc_id=21036) I took my iPad and used the MapOut app to plan routes from the comfort of my tent. MapOut exports to GPX files which I copied to my Garmin Edge 1000 via a wifi USB/SD card reader.
 
 To upload my days ride to Strava I transferred files from my Garmin Edge to my iPad via the SD card reader, then upload them using Safari.
 
 # Microsoft Windows
 ## Devices
 
-There are plenty of cheapo Windows laptops/2in1s which meet the price/size/battery life requirements. I have used and own both the Asus t100ta and x205ta. Both machines have Intel Atom-based processors, 1Gb of RAM and a 32Gb eMMC card.
+There are plenty of cheapo Windows laptops/2in1s which meet the price/size/battery life requirements. I have used and own both the Asus [t100ta](https://www.asus.com/2-in-1-PCs/ASUS_Transformer_Book_T100TA/) and [x205ta](https://www.asus.com/uk/Laptops/ASUS_EeeBook_X205TA/). Both machines have Intel Atom-based processors, 1Gb of RAM and a 32Gb eMMC card.
 
 Overall these machines perform _okay_... The hardware is the bare minimum necessary to run Windows and the 32GB storage is almost completely used by the base OS and a couple of pieces of software. Expect around 5GB free space on the OS drive, so you'll definitely need a 32 or 64GB microSD card to store maps and files.
 
 Battery life is good - around 10 hours. The t100ta charges over USB but I found it to be extremely picky about cables and chargers. If you get the wrong combination it can take days to charge; even with the right cables it can take around 10 hours from empty. The x205ta connects to the mains instead of USB, but charges much faster.
 
 Both have a full-size keyboard and a basic display. The t100ta features a touch screen which is potentially handy but I have had one digitiser break before - they are almost impossible to replace and although you can disable it, it's a challenge to do so as the broken screen keeps sending taps.
+
+Also handy is that they run a complete version of Microsoft Windows. You're not tied in to any particular App Store or ecosystem, so you can run any specialised software you might need for route planning, blogging and photo/video editing.
 
 The good thing is the price - second hand/refurbished versions of both models sell on eBay for a little over £100. If I can get 2 or 3 tours out of a machine at this price I'd be happy..
 
